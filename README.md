@@ -2,4 +2,4 @@
 
 I will be collecting my notebooks in this repository while I am working on Machine Learning Algorithms.
 
-* [k-NN Nearest Neighbor Classification](https://github.com/ditdili/CourseraMachineLearning/blob/master/Exercise1/Exercise1.ipynb)
+* [k-NN Nearest Neighbor Classification](https://github.com/ditdili/Machine_Learning_Algorithms/blob/master/kNN_Nearest_Neighbor_Classification.ipynb)
