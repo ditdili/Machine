@@ -1,4 +1,4 @@
-## Machine Learning Algorithms
+## Machine Learning Algorithms and ML Related Topics
 
 I will be collecting my notebooks in this repository while I am working on Machine Learning Algorithms.
 
