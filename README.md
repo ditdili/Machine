@@ -1,4 +1,4 @@
-## Machine Learning Algorithms, Related Topics, etc.
+## Machine Learning, Deep Learning, and Related Topics, etc.
 
 In this repository I am collecting notebooks on various Machine Learning and Machine Learning algorithms related topics.
 
