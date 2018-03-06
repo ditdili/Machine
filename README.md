@@ -9,4 +9,4 @@ In this repository I am collecting notebooks on various Machine Learning, Deep L
 
 ### Deep Learning
 
-* Basic Example of a Neural Network with Tensorflow and Keras (WIP) - [nbviewer](http://nbviewer.jupyter.org/github/ditdili/Machine_Learning-Deep_Learning-and_Related_Topics/blob/master/notebooks/Basic_NN_with_Keras_and_Tensorflow.ipynb)
+* [Basic Example of a Neural Network with Tensorflow and Keras](http://codewithmax.com/2018/03/06/basic-example-of-a-neural-network-with-tensorflow-and-keras/) - [nbviewer](http://nbviewer.jupyter.org/github/ditdili/Machine_Learning-Deep_Learning-and_Related_Topics/blob/master/notebooks/Basic_NN_with_Keras_and_Tensorflow.ipynb)
