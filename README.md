@@ -10,3 +10,4 @@ In this repository I am collecting notebooks on various Machine Learning, Deep L
 ### Deep Learning
 
 * [Basic Example of a Neural Network with Tensorflow and Keras](http://codewithmax.com/2018/03/06/basic-example-of-a-neural-network-with-tensorflow-and-keras/) - [nbviewer](http://nbviewer.jupyter.org/github/ditdili/Machine_Learning-Deep_Learning-and_Related_Topics/blob/master/notebooks/Basic_NN_with_Keras_and_Tensorflow.ipynb)
+* [Basic Image Recognition with Built-in Models in Keras](http://codewithmax.com/2018/03/13/basic-image-recognition-with-built-in-models-in-keras/) - [nbviewer](http://nbviewer.jupyter.org/github/ditdili/Machine_Learning-Deep_Learning-and_Related_Topics/blob/master/notebooks/Basic_Image_Recognition_with_Built-in_Models_in%20Keras.ipynb)
