@@ -3,7 +3,7 @@
 
 In this folder I collected my notes while studying the book [Deep Learning for Natural Language Processing](https://machinelearningmastery.com/deep-learning-for-nlp/) by Jason Brownlee. The notes are in Jupyter Notebook format.
 
-<IMG src='https://3qeqpr26caki16dnhd19sv6by6v-wpengine.netdna-ssl.com/wp-content/uploads/2017/10/Deep-Learning-for-Natural-Language-Processing-400.png' height="50%" width="50%"> <P>
+<IMG src='https://3qeqpr26caki16dnhd19sv6by6v-wpengine.netdna-ssl.com/wp-content/uploads/2017/10/Deep-Learning-for-Natural-Language-Processing-400.png' height=20% width=20%> <P>
 
 * Release Date: October 2017
 * Pages: 397
